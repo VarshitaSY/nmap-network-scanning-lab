@@ -49,3 +49,6 @@ All scans were performed on authorized and permitted targets only.
 | Service Scan | [service_scan.txt](scans/service_scan.txt) |
 | OS Detection | [os_detection.txt](scans/os_detection.txt) |
 | Aggressive Scan | [aggressive_scan.txt](scans/aggressive_scan.txt) |
+
+## 🔒 Original Work
+All scans, outputs, and analysis in this repository are performed and written by me for educational purposes.
