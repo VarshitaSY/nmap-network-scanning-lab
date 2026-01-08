@@ -19,3 +19,8 @@
 
 ## 📘 Learning Outcome
 This project helped me understand how network scanning reveals exposed services and how attackers and defenders assess network security posture using Nmap.
+
+## Port Scan Findings
+Full port scans (`-p-`) may be rate-limited or blocked on public servers such as scanme.nmap.org. Therefore, a top-ports scan was used to efficiently identify commonly exposed services.
+Command used:
+nmap --top-ports 1000 -Pn scanme.nmap.org
