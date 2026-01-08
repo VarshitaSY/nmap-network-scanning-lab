@@ -1,0 +1,19 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-01-08 20:23 +0530
+Nmap scan report for scanme.nmap.org (45.33.32.156)
+Host is up (0.31s latency).
+Other addresses for scanme.nmap.org (not scanned): 2600:3c01::f03c:91ff:fe18:bb2f
+Not shown: 996 closed tcp ports (reset)
+PORT      STATE SERVICE
+22/tcp    open  ssh
+80/tcp    open  http
+9929/tcp  open  nping-echo
+31337/tcp open  Elite
+Device type: general purpose
+Running (JUST GUESSING): Linux 4.X|5.X|2.6.X|3.X (89%)
+OS CPE: cpe:/o:linux:linux_kernel:4 cpe:/o:linux:linux_kernel:5.0 cpe:/o:linux:linux_kernel:2.6 cpe:/o:linux:linux_kernel:3
+Aggressive OS guesses: Linux 4.19 - 5.15 (89%), Linux 5.0 (89%), Linux 5.0 - 5.14 (89%), Linux 4.15 - 5.19 (86%), Linux 4.15 (85%), Linux 2.6.32 - 3.13 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 23 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 15.31 seconds
