@@ -52,3 +52,13 @@ All scans were performed on authorized and permitted targets only.
 
 ## 🔒 Original Work
 All scans, outputs, and analysis in this repository are performed and written by me for educational purposes.
+
+## 🎥 Demo Video Idea
+A step-by-step tutorial showing how to perform a basic Nmap network scan, including:
+- Installing Nmap  
+- Running basic, port, and service scans  
+- Saving and analyzing scan results  
+- Documenting findings
+
+## ⚠️ Disclaimer
+All scans in this project were performed on authorized test targets (scanme.nmap.org) for educational purposes only. Do not attempt scanning unauthorized networks.
